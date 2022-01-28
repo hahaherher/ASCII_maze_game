@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1608389662 source:c:\users\hong6\codeblocks-workspace\ascii_game\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<conio.h>
+	<vector>
+
